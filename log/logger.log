@@ -1,0 +1,16 @@
+2018-01-07 18:18:23,749 - main.py:12 - INFO - main - <module> - 本次测试开始执行，以下是详细日志
+2018-01-07 18:19:33,471 - main.py:25 - INFO - main - <module> - 测试顺利结束^_^ 
+2018-01-07 18:21:02,841 - main.py:12 - INFO - main - <module> - 本次测试开始执行，以下是详细日志
+2018-01-07 18:21:35,381 - main.py:25 - INFO - main - <module> - 测试顺利结束^_^ 
+2018-01-07 18:22:48,087 - main.py:12 - INFO - main - <module> - 本次测试开始执行，以下是详细日志
+2018-01-07 18:23:19,576 - main.py:25 - INFO - main - <module> - 测试顺利结束^_^ 
+2018-01-07 18:23:32,537 - main.py:12 - INFO - main - <module> - 本次测试开始执行，以下是详细日志
+2018-01-07 18:24:04,761 - main.py:25 - INFO - main - <module> - 测试顺利结束^_^ 
+2018-01-07 18:27:02,483 - main.py:12 - INFO - main - <module> - 本次测试开始执行，以下是详细日志
+2018-01-07 18:27:06,200 - admin_login_logout.py:24 - INFO - admin_login_logout - setUp - 打开浏览器成功
+2018-01-07 18:27:06,202 - admin_login_logout.py:33 - INFO - admin_login_logout - test_admin_login_test - test_admin_login_test start....
+2018-01-07 18:27:12,932 - admin_login_logout.py:24 - INFO - admin_login_logout - setUp - 打开浏览器成功
+2018-01-07 18:27:12,933 - admin_login_logout.py:33 - INFO - admin_login_logout - test_admin_login_test - test_admin_login_test start....
+2018-01-07 18:27:17,706 - admin_login_logout.py:24 - INFO - admin_login_logout - setUp - 打开浏览器成功
+2018-01-07 18:27:17,707 - admin_login_logout.py:33 - INFO - admin_login_logout - test_admin_login_test - test_admin_login_test start....
+2018-01-07 18:27:17,869 - main.py:25 - INFO - main - <module> - 测试顺利结束^_^ 
